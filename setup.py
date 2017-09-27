@@ -4,13 +4,13 @@ from ratelimit import __version__
 
 
 setup(
-    name='django-ratelimit',
+    name='django-ratelimit2',
     version=__version__,
     description='Cache-based rate-limiting for Django.',
     long_description=open('README.rst').read(),
-    author='James Socol',
-    author_email='me@jamessocol.com',
-    url='https://github.com/jsocol/django-ratelimit',
+    author='lcd1232',
+    author_email='malexey1984@gmail.com',
+    url='https://github.com/lcd1232/django-ratelimit2',
     license='Apache Software License',
     packages=find_packages(exclude=['test_settings']),
     include_package_data=True,
