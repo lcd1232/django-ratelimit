@@ -10,7 +10,7 @@ variable.
 .. image:: https://travis-ci.org/jsocol/django-ratelimit.png?branch=master
    :target: https://travis-ci.org/jsocol/django-ratelimit
 
-:Code:          https://github.com/lcd1232/django-ratelimit2
+:Code:          https://github.com/lcd1232/django-ratelimit3
 :License:       Apache Software License 2.0; see LICENSE file
-:Issues:        https://github.com/lcd1232/django-ratelimit2/issues
+:Issues:        https://github.com/lcd1232/django-ratelimit3/issues
 :Documentation: http://django-ratelimit.readthedocs.io/

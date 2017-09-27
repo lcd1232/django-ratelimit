@@ -11,7 +11,7 @@ Client IP Address
 
 Because this comes up frequently:
 
-I will not accept a  pull request or issue attempting to handle client
+I will not accept a pull request or issue attempting to handle client
 IP address when Django is behind a proxy.
 
 *Ratelimit is the wrong place for this.* There are more details in the
